@@ -1,0 +1,10 @@
+pandas
+seaborn
+matplotlib
+numpy
+wordcloud
+re
+string
+nltk
+sklearn
+scipy
